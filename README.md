@@ -1,6 +1,6 @@
-# ЄƬЄƦƝƖƬƳ ƲƧЄƦƁƠƬ
+# ⚜️ЄƬЄƦƝƖƬƳ ƲƧЄƦƁƠƬ⚜️
 
-<p align="center">🌟😈🌟𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧💥😈💥</p>
+<p align="center">😈𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧😈</p>
 
 <h1 align="center"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
