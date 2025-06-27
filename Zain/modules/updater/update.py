@@ -254,7 +254,7 @@ async def upstream(client: Client, message: Message):
         await status.edit(
             "`Eternity-Userbot Successfully Updated! Userbot can be used again.`",
         )
-        args = [sys.executable, "-m", "RAUSHAN"]
+        args = [sys.executable, "-m", "Zain"]
         execle(sys.executable, *args, environ)
         return
 
